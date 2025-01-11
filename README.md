@@ -1,4 +1,3 @@
-# Madlibs
 # Mad Libs Fill-In-The-Blank Game
 
 A fun Python program where you fill in the blanks with your own words to create a unique and hilarious story. This game prompts you for various types of words (adjective, noun, verb, etc.) and generates a funny story based on your inputs.
@@ -55,11 +54,7 @@ One day, it decided to travel to Paris where it met a dog.
 The dog was very cute and told the cat to run with it.
 Together, they had the most amazing adventure!
 Project Structure
-bash
-Copy code
-mad-libs-game/
-├── mad_libs.py                # Python script for the Mad Libs game
-└── README.md                  # Project documentation
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
