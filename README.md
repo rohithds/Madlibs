@@ -1,18 +1,17 @@
-
-Here’s a sample README for your Madlibs Python code hosted on GitHub:
-
-Madlibs Game in Python
+#Madlibs Game in Python
 A simple and fun implementation of the Madlibs game written in Python. This project allows users to input different types of words (like nouns, verbs, adjectives, etc.) to fill in the blanks in a story template, creating a hilarious and unexpected result.
 
 Features
 Interactive Gameplay: Prompts users to enter various types of words (nouns, verbs, adjectives, etc.)
 Customizable Templates: You can create and use different Madlibs story templates.
 Python-based: Pure Python code, no additional dependencies.
+
 How to Play
 Clone or download this repository to your local machine.
 Run the Python script.
 The script will ask for user inputs (like nouns, adjectives, and verbs).
 Once all the blanks are filled, a funny story will be generated!
+
 Installation
 Clone the Repository
 bash
